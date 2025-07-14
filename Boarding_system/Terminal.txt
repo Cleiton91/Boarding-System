@@ -1,0 +1,3 @@
+*INSIRA ESSE COMANDO NO TERMINAL
+
+uvicorn Boarding_system.Boarding_Main:app --reload 
