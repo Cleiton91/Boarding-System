@@ -1,2 +1,2 @@
 # Boarding System
-Tkinter API system, for passenger registration and check-in.
+Tkinter API system, for airline passenger registration and check-in.
